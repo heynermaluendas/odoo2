@@ -1,0 +1,1 @@
+web: python odoo-bin -c odoo.conf
