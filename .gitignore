@@ -49,3 +49,6 @@ package.json
 /man/
 /share/
 /src/
+odoo-venv/
+*.pyc
+__pycache__/
