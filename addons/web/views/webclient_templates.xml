@@ -127,7 +127,7 @@
                             <t t-if="not disable_database_manager">
                                 <a class="border-end pe-2 me-1" href="/web/database/manager">Manage Databases</a>
                             </t>
-                            <a href="https://uscom.net.co/" target="_blank">Powered by <span>USCOM</span></a>
+                            <a href="https://uscom.net.co/" target="_blank">Powered by <span>Odoo</span></a>
                         </div>
                     </div>
                 </div>
