@@ -159,6 +159,6 @@ registry
     .add("shortcuts", shortCutsItem)
     .add("separator", separator)
     .add("profile", preferencesItem)
-    .add("odoo_account", odooAccountItem)
+    // .add("odoo_account", odooAccountItem)
     .add("install_pwa", installPWAItem)
     .add("log_out", logOutItem);
